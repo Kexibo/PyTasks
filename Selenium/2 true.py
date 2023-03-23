@@ -20,11 +20,11 @@ driver.get('https://class.sirius.ru/authorize')
 
 s_search = driver.find_element(By.XPATH, '/html/body/div/div/main/div/div/div/div[1]/form/div[1]/div[1]/div/input')
 s_search.clear()
-s_search.send_keys('kexibo')
+s_search.send_keys('login')
 
 s_search = driver.find_element(By.XPATH, '/html/body/div/div/main/div/div/div/div[1]/form/div[1]/div[2]/div/input')
 s_search.clear()
-s_search.send_keys('767574737271Vit')
+s_search.send_keys('password')
 
 s_search.send_keys(Keys.ENTER)
 time.sleep(1)

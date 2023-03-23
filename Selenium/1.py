@@ -11,6 +11,9 @@ import lxml
 import json
 import time
 
+steam_data = {}
+list_games = ['стратегии', 'шутеры', 'головоломки', 'приключения', 'экшен']
+
 options = Options()
 driver = webdriver.Chrome(options=options)
 
@@ -18,6 +21,7 @@ driver.get('https://store.steampowered.com/')
 s_search = driver.find_element(by='id', value = "store_nav_search_term")
 #s_search = driver.find_element_by_id("store_nav_search_term")
 #s_search = driver.find_element(By.XPATH, '//*[@id="store_nav_search_term"]')
+
 s_search.send_keys('стратегии')
 s_search.send_keys(Keys.ENTER)
 
@@ -42,8 +46,10 @@ names = container.find_all('span', 'title')
 #             '№': num,
 #             'Игра': name.text,
 #         })
-steam_data = {}
- 
+
+
+
+
 for i in range(len(names)):
     game_name = names[i].text.strip()
     steam_data[i+1] = ({'Игра' : game_name})
