@@ -1,0 +1,762 @@
+{
+    "стратегии": {
+        "1": {
+            "Игра": "Counter-Strike: Global Offensive"
+        },
+        "2": {
+            "Игра": "Rust"
+        },
+        "3": {
+            "Игра": "Dota 2"
+        },
+        "4": {
+            "Игра": "Sons Of The Forest"
+        },
+        "5": {
+            "Игра": "Deep Rock Galactic"
+        },
+        "6": {
+            "Игра": "Euro Truck Simulator 2"
+        },
+        "7": {
+            "Игра": "PUBG: BATTLEGROUNDS"
+        },
+        "8": {
+            "Игра": "Valheim"
+        },
+        "9": {
+            "Игра": "RimWorld"
+        },
+        "10": {
+            "Игра": "Phasmophobia"
+        },
+        "11": {
+            "Игра": "Project Zomboid"
+        },
+        "12": {
+            "Игра": "DayZ"
+        },
+        "13": {
+            "Игра": "Stellaris"
+        },
+        "14": {
+            "Игра": "Satisfactory"
+        },
+        "15": {
+            "Игра": "Hunt: Showdown"
+        },
+        "16": {
+            "Игра": "SnowRunner"
+        },
+        "17": {
+            "Игра": "Cities: Skylines"
+        },
+        "18": {
+            "Игра": "Terraria"
+        },
+        "19": {
+            "Игра": "The Forest"
+        },
+        "20": {
+            "Игра": "Arma 3"
+        },
+        "21": {
+            "Игра": "Contraband Police"
+        },
+        "22": {
+            "Игра": "Dead Cells"
+        },
+        "23": {
+            "Игра": "Hearts of Iron IV"
+        },
+        "24": {
+            "Игра": "Team Fortress 2"
+        },
+        "25": {
+            "Игра": "Summoners War: Chronicles"
+        },
+        "26": {
+            "Игра": "ARK: Survival Evolved"
+        },
+        "27": {
+            "Игра": "Subnautica"
+        },
+        "28": {
+            "Игра": "Risk of Rain 2"
+        },
+        "29": {
+            "Игра": "Left 4 Dead 2"
+        },
+        "30": {
+            "Игра": "No Man's Sky"
+        },
+        "31": {
+            "Игра": "7 Days to Die"
+        },
+        "32": {
+            "Игра": "HITMAN 3"
+        },
+        "33": {
+            "Игра": "Wallpaper Engine"
+        },
+        "34": {
+            "Игра": "Mount & Blade II: Bannerlord"
+        },
+        "35": {
+            "Игра": "Baldur's Gate 3"
+        },
+        "36": {
+            "Игра": "BeamNG.drive"
+        },
+        "37": {
+            "Игра": "PAYDAY 2"
+        },
+        "38": {
+            "Игра": "Garry's Mod"
+        },
+        "39": {
+            "Игра": "Half-Life: Alyx"
+        },
+        "40": {
+            "Игра": "Divinity: Original Sin 2 - Definitive Edition"
+        },
+        "41": {
+            "Игра": "Conan Exiles"
+        },
+        "42": {
+            "Игра": "Stray"
+        },
+        "43": {
+            "Игра": "American Truck Simulator"
+        },
+        "44": {
+            "Игра": "ELDEN RING"
+        },
+        "45": {
+            "Игра": "Stardew Valley"
+        },
+        "46": {
+            "Игра": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+        },
+        "47": {
+            "Игра": "Grim Dawn"
+        },
+        "48": {
+            "Игра": "Hades"
+        },
+        "49": {
+            "Игра": "Detroit: Become Human"
+        },
+        "50": {
+            "Игра": "Escape the Backrooms"
+        }
+    },
+    "шутеры": {
+        "1": {
+            "Игра": "Dota 2"
+        },
+        "2": {
+            "Игра": "Stellaris"
+        },
+        "3": {
+            "Игра": "Risk of Rain 2"
+        },
+        "4": {
+            "Игра": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+        },
+        "5": {
+            "Игра": "Hyper Light Breaker"
+        },
+        "6": {
+            "Игра": "Crusader Kings III"
+        },
+        "7": {
+            "Игра": "Remnant: From the Ashes"
+        },
+        "8": {
+            "Игра": "Albion Online"
+        },
+        "9": {
+            "Игра": "Kenshi"
+        },
+        "10": {
+            "Игра": "Call to Arms - Gates of Hell: Ostfront"
+        },
+        "11": {
+            "Игра": "GTFO"
+        },
+        "12": {
+            "Игра": "Frostpunk 2"
+        },
+        "13": {
+            "Игра": "Friends vs Friends"
+        },
+        "14": {
+            "Игра": "The Lamplighters League"
+        },
+        "15": {
+            "Игра": "War Robots"
+        },
+        "16": {
+            "Игра": "ARK: Genesis Season Pass"
+        },
+        "17": {
+            "Игра": "Age of Wonders 4"
+        },
+        "18": {
+            "Игра": "Давайте узнаем стратегии игры"
+        },
+        "19": {
+            "Игра": "Knights of Honor II: Sovereign"
+        },
+        "20": {
+            "Игра": "Medieval Dynasty"
+        },
+        "21": {
+            "Игра": "Ultimate Chicken Horse"
+        },
+        "22": {
+            "Игра": "Propnight"
+        },
+        "23": {
+            "Игра": "Manor Lords"
+        },
+        "24": {
+            "Игра": "Men of War: Assault Squad 2"
+        },
+        "25": {
+            "Игра": "Slay the Spire"
+        },
+        "26": {
+            "Игра": "Wolcen: Lords of Mayhem"
+        },
+        "27": {
+            "Игра": "Darkest Dungeon® II"
+        },
+        "28": {
+            "Игра": "Kingdom Two Crowns"
+        },
+        "29": {
+            "Игра": "Songs of Conquest"
+        },
+        "30": {
+            "Игра": "Expansion - Hearts of Iron IV: No Step Back"
+        },
+        "31": {
+            "Игра": "Weltreich: Политическая Стратегия-Симулятор"
+        },
+        "32": {
+            "Игра": "WARNO"
+        },
+        "33": {
+            "Игра": "Plague Inc: Evolved"
+        },
+        "34": {
+            "Игра": "They Are Billions"
+        },
+        "35": {
+            "Игра": "Phantom Brigade"
+        },
+        "36": {
+            "Игра": "For The King"
+        },
+        "37": {
+            "Игра": "Тактика Троецарствия (3 Королевства) - Стратегия и Война"
+        },
+        "38": {
+            "Игра": "The Riftbreaker"
+        },
+        "39": {
+            "Игра": "Crossout"
+        },
+        "40": {
+            "Игра": "Necesse"
+        },
+        "41": {
+            "Игра": "WRC Generations – The FIA WRC Official Game"
+        },
+        "42": {
+            "Игра": "Surviving Mars"
+        },
+        "43": {
+            "Игра": "The Guild 3"
+        },
+        "44": {
+            "Игра": "Wartales"
+        },
+        "45": {
+            "Игра": "Stellaris: Utopia"
+        },
+        "46": {
+            "Игра": "Mutant Year Zero: Road to Eden"
+        },
+        "47": {
+            "Игра": "Dorfromantik"
+        },
+        "48": {
+            "Игра": "Expansion - Hearts of Iron IV: La Résistance"
+        },
+        "49": {
+            "Игра": "Pacify"
+        },
+        "50": {
+            "Игра": "Warhammer 40,000: Battlesector"
+        }
+    },
+    "головоломки": {
+        "1": {
+            "Игра": "Counter-Strike: Global Offensive"
+        },
+        "2": {
+            "Игра": "Deep Rock Galactic"
+        },
+        "3": {
+            "Игра": "Left 4 Dead 2"
+        },
+        "4": {
+            "Игра": "PAYDAY 2"
+        },
+        "5": {
+            "Игра": "Insurgency: Sandstorm"
+        },
+        "6": {
+            "Игра": "Remnant: From the Ashes"
+        },
+        "7": {
+            "Игра": "Warhammer 40,000: Darktide"
+        },
+        "8": {
+            "Игра": "Counter-Strike: Source"
+        },
+        "9": {
+            "Игра": "GTFO"
+        },
+        "10": {
+            "Игра": "Gunfire Reborn"
+        },
+        "11": {
+            "Игра": "Warface"
+        },
+        "12": {
+            "Игра": "Aliens: Fireteam Elite"
+        },
+        "13": {
+            "Игра": "STALCRAFT"
+        },
+        "14": {
+            "Игра": "Paladins®"
+        },
+        "15": {
+            "Игра": "Deadside"
+        },
+        "16": {
+            "Игра": "Shadow Warrior 2"
+        },
+        "17": {
+            "Игра": "Will To Live Online"
+        },
+        "18": {
+            "Игра": "Я ковбой: Вестерн Шутер"
+        },
+        "19": {
+            "Игра": "Crysis Remastered"
+        },
+        "20": {
+            "Игра": "PlanetSide 2"
+        },
+        "21": {
+            "Игра": "Isonzo"
+        },
+        "22": {
+            "Игра": "Necromunda: Hired Gun"
+        },
+        "23": {
+            "Игра": "Serious Sam 3: BFE"
+        },
+        "24": {
+            "Игра": "Shadow Warrior 3: Definitive Edition"
+        },
+        "25": {
+            "Игра": "World War 3"
+        },
+        "26": {
+            "Игра": "Lumencraft"
+        },
+        "27": {
+            "Игра": "SUPERHOT VR"
+        },
+        "28": {
+            "Игра": "SUPERHOT"
+        },
+        "29": {
+            "Игра": "Killing Floor"
+        },
+        "30": {
+            "Игра": "Rogue Company"
+        },
+        "31": {
+            "Игра": "Deceit"
+        },
+        "32": {
+            "Игра": "BPM: BULLETS PER MINUTE"
+        },
+        "33": {
+            "Игра": "Counter-Strike Nexon: Studio"
+        },
+        "34": {
+            "Игра": "Hurtworld"
+        },
+        "35": {
+            "Игра": "Century: Age of Ashes"
+        },
+        "36": {
+            "Игра": "Holdfast: Nations At War"
+        },
+        "37": {
+            "Игра": "Space Engineers Deluxe"
+        },
+        "38": {
+            "Игра": "Boundary"
+        },
+        "39": {
+            "Игра": "Tannenberg"
+        },
+        "40": {
+            "Игра": "Empyrion - Galactic Survival"
+        },
+        "41": {
+            "Игра": "Death in the Water 2"
+        },
+        "42": {
+            "Игра": "Military Conflict: Vietnam"
+        },
+        "43": {
+            "Игра": "Paragon: The Overprime"
+        },
+        "44": {
+            "Игра": "SYNTHETIK: Legion Rising"
+        },
+        "45": {
+            "Игра": "Apex Legends™"
+        },
+        "46": {
+            "Игра": "Furi"
+        },
+        "47": {
+            "Игра": "Black Squad"
+        },
+        "48": {
+            "Игра": "PAYDAY 2: Legacy Collection"
+        },
+        "49": {
+            "Игра": "SUPERHOT: MIND CONTROL DELETE"
+        },
+        "50": {
+            "Игра": "Serious Sam 3 VR: BFE"
+        }
+    },
+    "приключения": {
+        "1": {
+            "Игра": "Скачать головоломку"
+        },
+        "2": {
+            "Игра": "Авокадо Головоломка Квест"
+        },
+        "3": {
+            "Игра": "Portal 2"
+        },
+        "4": {
+            "Игра": "головоломка втроем"
+        },
+        "5": {
+            "Игра": "Линн, девочка изображённая на головоломке"
+        },
+        "6": {
+            "Игра": "Noita"
+        },
+        "7": {
+            "Игра": "Portal"
+        },
+        "8": {
+            "Игра": "We Were Here Forever"
+        },
+        "9": {
+            "Игра": "Inscryption"
+        },
+        "10": {
+            "Игра": "We Were Here Together"
+        },
+        "11": {
+            "Игра": "Keep Talking and Nobody Explodes"
+        },
+        "12": {
+            "Игра": "Hero Siege"
+        },
+        "13": {
+            "Игра": "The Past Within"
+        },
+        "14": {
+            "Игра": "Split - управляйте временем, создавайте клонов и решайте кибер-головоломки из будущего!"
+        },
+        "15": {
+            "Игра": "Superliminal"
+        },
+        "16": {
+            "Игра": "Operation: Tango"
+        },
+        "17": {
+            "Игра": "Blacksad: Under the Skin"
+        },
+        "18": {
+            "Игра": "Dorfromantik"
+        },
+        "19": {
+            "Игра": "Labyrinthine"
+        },
+        "20": {
+            "Игра": "Voidtrain"
+        },
+        "21": {
+            "Игра": "We Were Here Too"
+        },
+        "22": {
+            "Игра": "Gems of War - Puzzle RPG"
+        },
+        "23": {
+            "Игра": "Tricky Towers"
+        },
+        "24": {
+            "Игра": "Hardspace: Shipbreaker"
+        },
+        "25": {
+            "Игра": "ANNO: Mutationem"
+        },
+        "26": {
+            "Игра": "Lost in Play"
+        },
+        "27": {
+            "Игра": "OneShot"
+        },
+        "28": {
+            "Игра": "Creepy Tale 3: Ingrid Penance"
+        },
+        "29": {
+            "Игра": "The Eternal Cylinder"
+        },
+        "30": {
+            "Игра": "RPG Maker MV"
+        },
+        "31": {
+            "Игра": "Biped"
+        },
+        "32": {
+            "Игра": "GRIS"
+        },
+        "33": {
+            "Игра": "TUNIC"
+        },
+        "34": {
+            "Игра": "Miss Neko 3"
+        },
+        "35": {
+            "Игра": "Besiege"
+        },
+        "36": {
+            "Игра": "Kingdom Two Crowns: Norse Lands"
+        },
+        "37": {
+            "Игра": "LEGO® Bricktales"
+        },
+        "38": {
+            "Игра": "Machinarium"
+        },
+        "39": {
+            "Игра": "The Entropy Centre"
+        },
+        "40": {
+            "Игра": "Bridge Constructor Portal"
+        },
+        "41": {
+            "Игра": "The Orange Box"
+        },
+        "42": {
+            "Игра": "This Is the Police 2"
+        },
+        "43": {
+            "Игра": "We Were Here Series"
+        },
+        "44": {
+            "Игра": "Moss: Book II"
+        },
+        "45": {
+            "Игра": "Shift Happens"
+        },
+        "46": {
+            "Игра": "The Talos Principle"
+        },
+        "47": {
+            "Игра": "Blade of Darkness"
+        },
+        "48": {
+            "Игра": "Stray Souls"
+        },
+        "49": {
+            "Игра": "Tormented Souls"
+        },
+        "50": {
+            "Игра": "Children of Silentown"
+        }
+    },
+    "экшен": {
+        "1": {
+            "Игра": "Valheim"
+        },
+        "2": {
+            "Игра": "Summoners War: Chronicles"
+        },
+        "3": {
+            "Игра": "Risk of Rain 2"
+        },
+        "4": {
+            "Игра": "No Man's Sky"
+        },
+        "5": {
+            "Игра": "Mount & Blade II: Bannerlord"
+        },
+        "6": {
+            "Игра": "Baldur's Gate 3"
+        },
+        "7": {
+            "Игра": "Divinity: Original Sin 2 - Definitive Edition"
+        },
+        "8": {
+            "Игра": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+        },
+        "9": {
+            "Игра": "Hades II"
+        },
+        "10": {
+            "Игра": "Hyper Light Breaker"
+        },
+        "11": {
+            "Игра": "Black Desert"
+        },
+        "12": {
+            "Игра": "Subnautica: Below Zero"
+        },
+        "13": {
+            "Игра": "EVE Online"
+        },
+        "14": {
+            "Игра": "Kena: Bridge of Spirits"
+        },
+        "15": {
+            "Игра": "Hollow Knight"
+        },
+        "16": {
+            "Игра": "Albion Online"
+        },
+        "17": {
+            "Игра": "Slime Rancher 2"
+        },
+        "18": {
+            "Игра": "ASTRONEER"
+        },
+        "19": {
+            "Игра": "Tribes of Midgard"
+        },
+        "20": {
+            "Игра": "Ravenswatch"
+        },
+        "21": {
+            "Игра": "Tales of Arise"
+        },
+        "22": {
+            "Игра": "X4: Foundations"
+        },
+        "23": {
+            "Игра": "Gunfire Reborn"
+        },
+        "24": {
+            "Игра": "Risk of Rain 2: Survivors of the Void"
+        },
+        "25": {
+            "Игра": "UNDECEMBER"
+        },
+        "26": {
+            "Игра": "Control Ultimate Edition"
+        },
+        "27": {
+            "Игра": "Darkest Dungeon®"
+        },
+        "28": {
+            "Игра": "We Were Here Forever"
+        },
+        "29": {
+            "Игра": "Inscryption"
+        },
+        "30": {
+            "Игра": "Crusader Kings III: Tours & Tournaments"
+        },
+        "31": {
+            "Игра": "Titan Quest Anniversary Edition"
+        },
+        "32": {
+            "Игра": "Skul: The Hero Slayer"
+        },
+        "33": {
+            "Игра": "Tchia"
+        },
+        "34": {
+            "Игра": "Slime Rancher"
+        },
+        "35": {
+            "Игра": "Приключения Поппе"
+        },
+        "36": {
+            "Игра": "Arma 3 Apex"
+        },
+        "37": {
+            "Игра": "We Were Here Together"
+        },
+        "38": {
+            "Игра": "ONE PIECE ODYSSEY"
+        },
+        "39": {
+            "Игра": "PlateUp!"
+        },
+        "40": {
+            "Игра": "Shop Titans"
+        },
+        "41": {
+            "Игра": "Children of Morta"
+        },
+        "42": {
+            "Игра": "Songs of Conquest"
+        },
+        "43": {
+            "Игра": "The Past Within"
+        },
+        "44": {
+            "Игра": "Pillars of Eternity II: Deadfire"
+        },
+        "45": {
+            "Игра": "ENDER LILIES: Quietus of the Knights"
+        },
+        "46": {
+            "Игра": "Way of the Hunter"
+        },
+        "47": {
+            "Игра": "Enter the Gungeon"
+        },
+        "48": {
+            "Игра": "Solasta: Crown of the Magister - Palace of Ice"
+        },
+        "49": {
+            "Игра": "The Riftbreaker"
+        },
+        "50": {
+            "Игра": "Приключения на Северном Полюсе"
+        }
+    }
+}
